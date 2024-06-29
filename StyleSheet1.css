@@ -1,0 +1,36 @@
+﻿body {
+    background-color:lightblue;
+}
+
+#lbtn2:hover {
+    background-color: #FFBF00;
+}
+#nb2:hover {
+    background-color: #FFBF00;
+}
+#nb3:hover {
+    background-color: #FFBF00;
+}
+#nb4:hover {
+    background-color: #FFBF00;
+}
+#nb5:hover {
+    background-color: #FFBF00;
+}
+#nb1,#nb2,#nb3,#nb4,#nb5{
+    padding:4px;
+}
+
+form{
+    height:100%
+}
+ #panel1{
+     opacity:0.1;
+
+ }
+ #job1:hover{
+     background-color:lightgray;
+ }
+#job2:hover {
+    background-color: lightgray;
+}
